@@ -6,7 +6,7 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: True, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: ['sagargoswami2001', 'Python-Conditional-Statement-Programs', 'Simple-Web-Browser-Using-Python', 'Java-Lab-File-Programs', 'Love-Calculator-Using-Python', 'Python-Basic-Programs-2', 'School-Management-System-Using-Python', 'Credit-Card-Validator', 'Login-Form-Validation', 'Team-Section-Page', 'About-Us-Site-Page', 'Python-Turtle-Codes', 'C-Lab-File-Programs', 'Sign-Up-and-Login-Page', 'C-Programs', 'Calendar-in-C', 'Snake-Game', 'Cpp-Lab-File-Programs', 'Data-Structure-Lab-File-Programs', 'Rolling-Dice', 'Notification-Reminder', 'Tindog-Site', 'Java-Programs-For-Practice', 'CV-Sample-Using-HTML-And-CSS-Dark-Theme', 'CV-Sample-Using-HTML-And-CSS', 'Basic-CV-Sample-Using-HTML-And-CSS', 'Mouse-Using-Your-Eyes', 'Basic-Billing-Machine', 'Bitcoin-Mining', 'Social-Media-Button-Hover-Effect', '3D-Flip-Card', 'Simple-Blockchain', 'ATM-Machine-in-C', 'Java-Pattern-Programs', 'Python-Arrays-Programs', 'Dark-Mode-Toggle', 'Basic-Flipkart-Front-Page-Clone', 'Python-Basic-Programs-1', '100-Practice-Problems-in-Cpp', 'CGMA-Lab-File-Programs', 'Setup-Graphics.h-for-Visual-Studio-Code', 'How-Does-Bitcoin-Mining-Work', 'Snake-Water-Gun', 'Funny-Hack', 'Command-Line-Interface'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
